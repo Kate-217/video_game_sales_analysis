@@ -6,7 +6,7 @@ This Jupyter Notebook explores historical video game sales data to identify the 
 
 - **Client**: Strimchik — an online video game retailer with a global customer base.
 - **Objective**: To identify key patterns that influence game sales, such as platform, genre, region, and review scores.
-- **Dataset**: Provided as part of the Yandex Practicum Data Analyst course ([practicum.yandex](https://practicum.yandex)).
+- **Dataset**: Provided as part of the Yandex Practicum Data Analyst course ([practicum.yandex](https://practicum.yandex.ru/data-analyst/)).
 - **Time frame**: 1980–2016
 
 ##  Key Questions Answered
